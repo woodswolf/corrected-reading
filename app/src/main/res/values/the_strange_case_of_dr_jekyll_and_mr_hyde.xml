@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__title">The Strange Case of Dr. Jekyll and Mr. Hyde</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__author">Robert Louis Stevenson</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__description">The Strange Case of Dr. Jekyll and Mr. Hyde is a Gothic novella by Scottish author Robert Louis Stevenson, first published in 1886. The work is also known as The Strange Case of Jekyll Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll and Hyde. It is about a London legal practitioner named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde. The novella\'s impact is such that it has become a part of the language, with the vernacular phrase \"Jekyll and Hyde\" referring to persons with an unpredictably dual nature: outwardly good, but sometimes shockingly evil.</string>
+    <integer-array name="the_strange_case_of_dr_jekyll_and_mr_hyde__chapter_word_counts">
+        <item>2394</item>   <!--  1 -->
+        <item>2932</item>   <!--  2 -->
+        <item>793</item>    <!--  3 -->
+        <item>1663</item>   <!--  4 -->
+        <item>1631</item>   <!--  5 -->
+        <item>1492</item>   <!--  6 -->
+        <item>550</item>    <!--  7 -->
+        <item>4354</item>   <!--  8 -->
+        <item>2788</item>   <!--  9 -->
+        <item>6931</item>   <!-- 10 -->
+    </integer-array>
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__source_url">http://www.gutenberg.org/files/43/43-h/43-h.htm</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__published_date">8/22/2010</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__completed_date">12/9/2010</string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch1_title">Story of the Door</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch1_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch1_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch2_title">Search for Mr. Hyde</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch2_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch2_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch3_title">Dr. Jekyll was Quite at Ease</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch3_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch3_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch4_title">The Carew Murder Case</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch4_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch4_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch5_title">Incident of the Letter</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch5_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch5_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch6_title">Incident of Dr. Lanyon</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch6_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch6_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch7_title">Incident at the Window</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch7_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch7_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch8_title">The Last Night</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch8_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch8_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch9_title">Dr. Lanyon\'s Narrative</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch9_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch9_endnote"><![CDATA[]]></string>
+
+
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch10_title">Henry Jekyll\'s Full Statement of the Case</string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch10_startnote"><![CDATA[]]></string>
+    <string name="the_strange_case_of_dr_jekyll_and_mr_hyde__ch10_endnote"><![CDATA[]]></string>
+</resources>

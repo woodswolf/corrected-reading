@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Corrected Reading</string>
+    <string name="title_activity_scrolling">Reading Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="left_arrow">&lt;</string>
+    <string name="right_arrow">&gt;</string>
+
+    <string name="default_title">Default Title</string>
+    <string name="default_author">by Default Author</string>
+    <string name="default_stats">0 chapters — 0 words</string>
+    <string name="default_description">Default Description</string>
+    <string name="default_published_completed">Published 12/31/1969 — Completed 1/1/1970</string>
+
+    <string name="theme_toggle_label">Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <string name="rotation_lock_label">Rotation Lock</string>
+    <string name="no_lock">Don\'t lock orientation</string>
+    <string name="horizontal_lock">Lock Horizontally</string>
+    <string name="vertical_lock">Lock Vertically</string>
+
+    <string name="text_size_label">Text Size</string>
+    <string name="text_size_heading">Headings</string>
+    <string name="text_size_subheading">Sub-Headings</string>
+    <string name="text_size_normal_text">Normal Text</string>
+    <string name="apply">Apply</string>
+    <string name="text_size_preview_label">Preview:</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at auctor ipsum. Donec sit amet viverra risus. Cras egestas, orci at vestibulum sollicitudin, velit leo ornare lacus, eu laoreet urna nibh vel massa. Suspendisse fermentum tortor nec magna bibendum tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam non consequat dolor. Integer vitae porta lectus. Maecenas ut nibh non odio scelerisque laoreet eu vel sem. Vestibulum lobortis posuere tortor ut tempus. Suspendisse eget libero vel tellus vulputate molestie at non urna.</string>
+</resources>

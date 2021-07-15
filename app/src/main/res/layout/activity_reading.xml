@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/bgColor"
+    tools:context=".ReadingActivity">
+
+    <ScrollView
+        android:id="@+id/chapter_scroll_container"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scrollbarThumbVertical="?attr/textColor"
+        android:scrollbars="vertical"
+        android:verticalScrollbarPosition="right"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_bar_reading"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/top_bar_reading">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/start_note"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/note_horizontal_margin"
+                android:layout_marginTop="@dimen/note_border_margin"
+                android:scrollbarThumbVertical="?attr/textColor"
+                android:text="Start Note"
+                android:textColor="?attr/textColor"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/chapter_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/note_horizontal_margin"
+                android:layout_marginBottom="@dimen/title_bottom_margin"
+                android:text="Chapter Title"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="?attr/textColor"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/chapter_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:text="Chapter Text"
+                android:textColor="?attr/textColor"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/end_note"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/note_horizontal_margin"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:text="End Note"
+                android:textColor="?attr/textColor"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/top_bar_reading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            app:srcCompat="@drawable/baseline_arrow_back_white_48" />
+
+        <TextView
+            android:id="@+id/work_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Work Title"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/settings_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            app:srcCompat="@drawable/baseline_settings_white_48" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_bar_reading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/prev_chapter_button"
+            android:layout_width="36dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            app:srcCompat="@drawable/baseline_chevron_left_white_48" />
+
+        <Spinner
+            android:id="@+id/chapter_select_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/next_chapter_button"
+            android:layout_width="36dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            app:srcCompat="@drawable/baseline_chevron_right_white_48" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

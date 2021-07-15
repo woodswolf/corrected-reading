@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a_christmas_carol__title">A Christmas Carol</string>
+    <string name="a_christmas_carol__author">Charles Dickens</string>
+    <string name="a_christmas_carol__description">A Christmas Carol, In Prose, Being a Ghost Story of Christmas, commonly known as A Christmas Carol, is a novella by Charles Dickens, first published in London by Chapman &amp; Hall in 1843 and illustrated by John Leech. A Christmas Carol recounts the story of Ebenezer Scrooge, an elderly miser who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Yet to Come. After their visits, Scrooge is transformed into a kinder, gentler man.</string>
+    <integer-array name="a_christmas_carol__chapter_word_counts">
+        <item>6412</item>   <!--  1 -->
+        <item>6149</item>   <!--  2 -->
+        <item>8197</item>    <!--  3 -->
+        <item>5348</item>   <!--  4 -->
+        <item>2292</item>   <!--  5 -->
+    </integer-array>
+
+    <string name="a_christmas_carol__source_url">http://www.gutenberg.org/files/46/46-h/46-h.htm</string>
+    <string name="a_christmas_carol__published_date">8/22/2010</string>
+    <string name="a_christmas_carol__completed_date">12/9/2010</string>
+
+
+
+    <string name="a_christmas_carol__ch1_title">Marley\'s Ghost</string>
+    <string name="a_christmas_carol__ch1_startnote"><![CDATA[]]></string>
+    <string name="a_christmas_carol__ch1_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="a_christmas_carol__ch2_title">The First of the Three Spirits</string>
+    <string name="a_christmas_carol__ch2_startnote"><![CDATA[]]></string>
+    <string name="a_christmas_carol__ch2_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="a_christmas_carol__ch3_title">The Second of the Three Spirits</string>
+    <string name="a_christmas_carol__ch3_startnote"><![CDATA[]]></string>
+    <string name="a_christmas_carol__ch3_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="a_christmas_carol__ch4_title">The Last of the Spirits</string>
+    <string name="a_christmas_carol__ch4_startnote"><![CDATA[]]></string>
+    <string name="a_christmas_carol__ch4_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="a_christmas_carol__ch5_title">The End of It</string>
+    <string name="a_christmas_carol__ch5_startnote"><![CDATA[]]></string>
+    <string name="a_christmas_carol__ch5_endnote"><![CDATA[]]></string>
+</resources>

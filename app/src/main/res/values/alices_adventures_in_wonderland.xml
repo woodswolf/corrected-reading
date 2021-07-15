@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alices_adventures_in_wonderland__title">Alice\'s Adventures in Wonderland</string>
+    <string name="alices_adventures_in_wonderland__author">Lewis Carroll</string>
+    <string name="alices_adventures_in_wonderland__description">Alice\'s Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel by English author Lewis Carroll (the pseudonym of Charles Dodgson). It tells of a young girl named Alice, who falls through a rabbit hole into a subterranean fantasy world populated by peculiar, anthropomorphic creatures. It is considered to be one of the best examples of the literary nonsense genre. The tale plays with logic, giving the story lasting popularity with adults as well as with children.</string>
+    <integer-array name="alices_adventures_in_wonderland__chapter_word_counts">
+        <item>2181</item>   <!--  1 -->
+        <item>2093</item>   <!--  2 -->
+        <item>1694</item>   <!--  3 -->
+        <item>2607</item>   <!--  4 -->
+        <item>2180</item>   <!--  5 -->
+        <item>2588</item>   <!--  6 -->
+        <item>2282</item>   <!--  7 -->
+        <item>2482</item>   <!--  8 -->
+        <item>2266</item>   <!--  9 -->
+        <item>2025</item>   <!-- 10 -->
+        <item>1872</item>   <!-- 11 -->
+        <item>2101</item>   <!-- 12 -->
+    </integer-array>
+
+    <string name="alices_adventures_in_wonderland__source_url">http://www.gutenberg.org/files/11/11-h/11-h.htm</string>
+    <string name="alices_adventures_in_wonderland__published_date">8/22/2010</string>
+    <string name="alices_adventures_in_wonderland__completed_date">12/9/2010</string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch1_title">Down the Rabbit-Hole</string>
+    <string name="alices_adventures_in_wonderland__ch1_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch1_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch2_title">The Pool of Tears</string>
+    <string name="alices_adventures_in_wonderland__ch2_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch2_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch3_title">A Caucus-Race and a Long Tale</string>
+    <string name="alices_adventures_in_wonderland__ch3_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch3_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch4_title">The Rabbit Sends in a Little Bill</string>
+    <string name="alices_adventures_in_wonderland__ch4_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch4_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch5_title">Advice from a Caterpillar</string>
+    <string name="alices_adventures_in_wonderland__ch5_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch5_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch6_title">Pig and Pepper</string>
+    <string name="alices_adventures_in_wonderland__ch6_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch6_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch7_title">A Mad Tea-Party</string>
+    <string name="alices_adventures_in_wonderland__ch7_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch7_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch8_title">The Queen’s Croquet-Ground</string>
+    <string name="alices_adventures_in_wonderland__ch8_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch8_endnote"><![CDATA[]]></string>
+
+
+
+    <string name="alices_adventures_in_wonderland__ch9_title">The Mock Turtle’s Story</string>
+    <string name="alices_adventures_in_wonderland__ch9_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch9_endnote"><![CDATA[]]></string>
+
+
+    <string name="alices_adventures_in_wonderland__ch10_title">The Lobster Quadrille</string>
+    <string name="alices_adventures_in_wonderland__ch10_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch10_endnote"><![CDATA[]]></string>
+
+
+    <string name="alices_adventures_in_wonderland__ch11_title">Who Stole the Tarts?</string>
+    <string name="alices_adventures_in_wonderland__ch11_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch11_endnote"><![CDATA[]]></string>
+
+
+    <string name="alices_adventures_in_wonderland__ch12_title">Alice’s Evidence</string>
+    <string name="alices_adventures_in_wonderland__ch12_startnote"><![CDATA[]]></string>
+    <string name="alices_adventures_in_wonderland__ch12_endnote"><![CDATA[]]></string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a_modest_proposal__title">A Modest Proposal</string>
+    <string name="a_modest_proposal__author">Dr. Jonathan Swift</string>
+    <string name="a_modest_proposal__description">A modest proposal for preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick.</string>
+    <integer-array name="a_modest_proposal__chapter_word_counts">
+        <item>3386</item>   <!--  1 -->
+    </integer-array>
+
+    <string name="a_modest_proposal__source_url">http://www.gutenberg.org/files/1080/1080-h/1080-h.htm</string>
+    <string name="a_modest_proposal__published_date">1729</string>
+    <string name="a_modest_proposal__completed_date">1729</string>
+
+
+
+    <string name="a_modest_proposal__ch1_title">A Modest Proposal</string>
+    <string name="a_modest_proposal__ch1_startnote"><![CDATA[]]></string>
+    <string name="a_modest_proposal__ch1_endnote"><![CDATA[]]></string>
+</resources>
